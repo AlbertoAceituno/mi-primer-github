@@ -1,0 +1,152 @@
+@font-face{
+    font-family: letranueva;
+    src: url(fuentes/Calligraffiti.ttf)
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#contenedor{
+    font-size: 1em;
+    font-family: arial, sans-serif;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color:black;
+    color: wheat;
+    background: linear-gradient(to right, black, grey);
+    padding-top: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+body{
+    font-size: 1em;
+    font-family: arial, sans-serif;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color:black;
+    color: wheat;
+    background: linear-gradient(to right, black, grey);
+    padding-top: 3em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.presentacion{
+    padding: 5px;
+}
+
+datos{
+    margin-right: 5%;
+}
+
+h1{
+    color: antiquewhite;
+    font-family: letranueva, sans-serif;
+    margin: .6em;
+}
+
+h2{
+    color:coral;
+    margin: .6em;
+}
+
+p{
+    padding: .7em;
+}
+
+.cuerpo{
+    margin-left: 2em;
+}
+
+.firma{
+    font-weight: bold;
+    text-align: right;
+}
+
+a{
+    color: wheat;
+}
+
+table{
+    border-color: antiquewhite;
+    margin: 0.6em;
+}
+
+dt{
+    color:darkorange;
+}
+
+dd{
+    color:burlywood;
+    margin-left: 1em;
+    margin-bottom: 1em;
+}
+
+div{
+    color:cornsilk;
+}
+
+ul{
+    color: cornsilk;
+    margin-left: 1em;
+}
+
+.mifoto{
+    background-color: brown;
+    top: 50px;
+    right: 50px;
+    
+    border: double  0.3em;
+    float:right;
+    margin-right: 3em;
+    padding: .1em;
+}
+
+tr:nth-child(even){
+    background-color: darksalmon;
+    color: white;
+}
+        
+tr:nth-child(odd){
+    background-color: darkkhaki;
+    color: beige;
+}
+        
+tr:hover{
+    background-color: black;
+}
+
+th{
+    background-color: beige;
+    color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
